@@ -256,18 +256,3 @@ The whole becomes equal to the sum of the parts. They cooperate, with with each 
 
 ### The team has become a unit.
 Focus is on the whole. They have passionate debates, engage on opposing ideas, look for the best possible outcome and are proud to be part of the group.
-
-
-----
-
-
-# Theory and First Principles
-
-## Variables which lead to complexity
-tbd
-
-## Essential advantages of agility
-tbd
-
-## Impact of courage and transparency
-tbd
