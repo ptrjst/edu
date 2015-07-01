@@ -124,7 +124,7 @@ The 'team' aspect requires nurturung, cherishing and attention to avoid team atr
 - Willing sacrifices
 - Meaningful and controllable objective
 
-### Inattention to golas
+### Inattention to goals
 - Personal heroism
 - Individual credit claims
 - Ony Ego
