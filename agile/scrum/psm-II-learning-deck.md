@@ -126,7 +126,37 @@ Live and work together, share experiences, solve problems jointly to overcome an
 -Results should be controllable. Profit is not a goal, but a result from achieving a goal.-
 
 # Scrum Master´s Impact
-*
+Most of these bullets could be in a job description of a Scrum Master. As a take away, people could
+use this slide to talk with their boss about the responsibilities of a Scrum Master.
+
+
+## Lead by example.
+Be the first to be vulnerable, and create an environemnt where it's safe to be vulnerable. Be a living demonstration of the assets, including sincere and immediate apologies when beraking them.
+
+## Create an environment of safety.
+Encourage debate, support it and keep it productive. Facilitate conversations using coaching techniques, like open questions.
+
+## Deciplined Decisions
+Try to have key decisions made at the end of team meetings, making responsiblility and deadlines clear.
+
+## Learn to read the room.
+Be connected without being present.
+
+## Good conflict culute
+Remind the team that conflict is good and natural and healthy.
+
+##Show patience.
+Find comfort in silence, let the team take action, step in, speak up.
+
+## Restrain fro solving.
+Reveal, not resolv. Be careful not to try and steer the team towards premature resolution of conflict with the intention to protecting people. Help the team members to learn and develop positive conflict resolution skills.
+
+## Be comfortable with the prospect of a decision turning out not to lead to the anticipated result or effect.
+
+## Caring for people.
+
+## Show low tolerance for organizational impediments.
+
 
 # From Controller to Enabler
 Lyssa Adkins describes following as coaching behavior:
@@ -153,6 +183,60 @@ Move toward: Helping Development Teams understand and exxpand the definition of 
 
 ## Moveaway from: Fixing problems
 Move toward: Guiding Development Teams to discover what works best for them
+
+# We have a Product Owner
+The benefits an organization gets from Scrum largely depend on how the game us played.
+Yes, you do Scrum if you have a Product Owner. And you will do even better when the role is
+fulfilled by:
+• A (business) Analyst: limited benefits. But control is safe, as it remains with IT. However, for
+many decisions the analyst doesn’t have the answer, needs to revert to the real business
+responsible, look at the project manager, wait for an external decision like the steering
+committee.
+• A proxy for the business: Slightly better. Control remains with IT (‘Can’t trust business people!’)
+but with a person more connected to the business. Less delays, less waiting time, less hick-ups.
+• A person from the business: Better. Direct availability of functional knowledge and stakeholder
+expectations. Yet, still much waiting time for decisions by the real authorities.
+• A business person with a mandate: Much better. A person authorized to take decisions on the
+spot, using the Sprint Review to demonstrate results to stakeholders.
+• A mini-CEO: a business person with full responsibility over the product. They don’t come much
+better than this.
+
+# We have a Definition of Done
+The benefits an organization gets from Scrum largely depend on how the game us played.
+Yes, you do Scrum if you have a definition of Done. And you will do even better when the
+definition of Done reflects ‘releasable’ ànd that work can be done in the Sprint (not after a Sprint
+has finished):
+• Development: essential, but hardly enough. Only the start. Without development, no progress
+as there can’t be working software.
+• Test: all testing is done within the Sprint, requiring testing skills in the Development Team.
+Testing is needed at a unit and a functional level. It does help additionally if the work can be
+automated and is done progressively in the Sprint, not just toward the end of the Sprint.
+• Integrate: All integration, regression and alike testing is done in the Sprint, and across multiple
+teams working on the same product. It does help additionally if the work can be automated and
+is done progressively in the Sprint, not just toward the end of the Sprint.
+• QA: All organizational guidelines for quality are available and the Development Team has the
+skills, access and mandate to perform the work in the Sprint. It does help additionally if the
+work can be automated and is done progressively in the Sprint, not just toward the end of the
+Sprint.
+• Release: all work to prepare for an actual release (like traditional stabilization work) is
+performed in the Sprint. It does help additionally if the work can be automated and is done
+progressively in the Sprint, not just toward the end of the Sprint.
+
+# We are a team
+The benefits an organization gets from Scrum largely depend on how the game us played.
+Yes, you do Scrum if you have a Scrum Team, including a Product Owner, Development Team and
+Scrum Master. And you will do even better when the team really collaborates:
+• A team gets formed to start. It’s merely bringing a group of people together. Most are in
+observing mode. Formal arrangements and agreements get made, possibly including team
+agreements, engineering standards, a definition of Done, team values, meeting timings.
+• A team goes through some storms as they get to know each other. They build a sense of trust.
+• The group of people keeps jelling. The whole becomes equal to the sum of the parts. They cooperate,
+with with each other, align their individual work with the work of the others.
+• The team knows each other, has grown confidence in understanding each other’s remarks, stop
+taking comments personally. They develop shared goals and show commitment to the team and
+these shared objectives. Individual benefits are being sacrificed for the good of the whole.
+• The team has become a unit. Focus is on the whole. They have passionate debates, engage on
+opposing ideas, look for the best possible outcome and are proud to be part of the group.
 
 
 ----
