@@ -1,105 +1,48 @@
-Markdown
-========
+PSM II - Training Deck
+======================
 
-[Markdown](http://daringfireball.net/projects/markdown/) is a lightweight markup language created by John Gruber allowing writers to create HTML in a way that is as easy-to-read and easy-to-write as is feasible—it's optimized for readability.
+This flash card deck provide insight into Scrum Theory to prepare yourself for the _Professional Scrum Master_ online assessment by Scrum.org.
 
-The beauty of Markdown's syntax is you can learn it quickly just by looking at a few examples. And this deck has lots of examples.
+# Scrum Values
+Understanding the Scrum values as a toolbox for the Scrum Master to observe behavior, as a foundation for
+practices and decision.
 
-## Philosophy
+# Commitment
+Commit to the team. Commit to quality. Commit to collaborate. Commit to learn. Commit to do the best you can,
+every day again. Commit to the Sprint Goal. Commit to be professional. Commit to self-organize. Commit to
+excellence. Commit to the agile principles (http://agilemanifesto.org/principles.html). Commit to deliver working
+software. Commit to look for improvements. Commit to the Definition of Done. Commit to the Scrum
+framework. Commit to deliver Value. Commit to finish work (before starting new work or going into a multitasking
+mode). Commit to continuously inspect & adapt. Commit to transparency.
 
-### The Purpose of Markdown's Syntax
+# Focus
+Focus on what you know (mind YAGNI – You Ain’t Gonna Need It). Focus on what’s most important. Focus on
+what’s most nearby in time. Focus on your work. Focus on the simplest thing that might possibly work.
 
-*Writing* on the web. The idea for Markdown is to make it easy to read, write, and edit prose.
+# Openness
+Be transparent. Be open about your work. Be open for people. Be open to collaborate across disciplines and
+skills. Be open to collaborate with stakeholders and the wider environment. Be open in sharing feedback.
 
-This is why Markdown only supports a subset of HTML.
+# Respect
+Respect people for their experience and personal background. Respect diversity (it makes you stronger). Respect
+different opinions (you can learn from it).
 
-### Markdown is optimized for what, above all else?
+# Courage
+Show courage in not building stuff that nobody wants. Show courage to not deliver undone software. Show
+courage in sharing all possible information (transparency). Show courage in admitting you are not perfect
+(nobody is). Show courage to change direction.
 
-Readability
 
-### What are Markdown's influences?
+----
 
-John Gruber:
 
-> the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
+# Theory and First Principles
 
-Other influences:
+## Variables which lead to complexity
+tbd
 
-- [Setext](http://docutils.sourceforge.net/mirror/setext.html)
-- [atx](http://www.aaronsw.com/2002/atx/)
-- [Textile](http://textism.com/tools/textile/)
-- [reStructuredText](http://docutils.sourceforge.net/rst.html)
-- [Grutatext](http://www.triptico.com/software/grutatxt.html)
-- [EtText](http://ettext.taint.org/doc/)
+## Essential advantages of agility
+tbd
 
-### Markdown is composed entirely of...
-
-Punctuation characters.
-
-## Inline HTML
-
-### What is the purpose of Markdown's inline HTML feature?
-
-To use HTML tags in a document that Markdown doesn't support.
-
-For example, to add an HTML table to a Markdown article:
-
-    This is a regular paragraph.
-
-    <table>
-        <tr>
-            <td>Foo</td>
-        </tr>
-    </table>
-
-    This is another regular paragraph.
-
-### What are the two restrictions to using inline HTML?
-
-The two restrictions to using inline HTML:
-
-1. block-level HTML elements — e.g. `<div>`, `<table>`, `<pre>`, `<p>`, etc. — must be separated from surrounding content by blank lines
-2. the start and end tags of the block should not be indented with tabs or spaces
-
-### Can you use `*emphasis*` inside inline HTML?
-
-No. Markdown is not processed if it's inside block-level HTML elements.
-
-That said, Fletcher Penny's variant [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) supports tables, so you wouldn't have to use HTML, so you could use Markdown inside a table.
-
-## Section Headings
-
-### How do you make an `<h1>`, `<h2>`, `<h3>`, `<h4>`, or `<h5>`?
-
-Use the pound symbol:
-
-    # This is a heading level 1
-
-    ## This is a heading level 2
-
-    ### This is a heading level 3
-
-    #### This is a heading level 4
-
-    ##### This is a heading level 5
-
-Also, you can use underlines for `<h1>` and `<h2>`:
-
-    This is a heading level 1
-    =========================
-
-    This is a heading level 2
-    -------------------------
-
-Further reading
----------------
-
-Documentation by John Gruber, author of Markdown:
-
-- [Markdown: Main](http://daringfireball.net/projects/markdown/)
-- [Markdown: Basics](http://daringfireball.net/projects/markdown/basics)
-- [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
-
-[GitHub-flavored Markdown (GFM)](http://github.github.com/github-flavored-markdown/)
-
-Fletcher Penny's [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
+## Impact of courage and transparency
+tbd
