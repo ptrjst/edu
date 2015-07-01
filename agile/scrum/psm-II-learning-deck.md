@@ -42,96 +42,98 @@ The 'team' aspect requires nurturung, cherishing and attention to avoid team atr
 “Teams are inherently dysfunctional, as they are made of imperfect human beings.” 
 –Patrick Lencioni (The Five Dysfunctions of a Team)
 
-### Trust
-- Trust
--- Constructive
--- Vulenrability
--- Room for emotions
--- Conviviality
--- Safety
+## Trust
 
-- Absence of trust
--- Defensive
--- Reluctance
--- Hallway backbiting
--- Muted voices
+### Existing Trust
+- Constructive
+- Vulenrability
+- Room for emotions
+- Conviviality
+- Safety
 
-Live and work together, share experiences, solve problems jointly to overcome an absence of trust. Use models to discover and acknowledge each others’ strengths and weaknesses. Think Myers-Briggs.
+### Absence of trust
+- Defensive
+- Reluctance
+- Hallway backbiting
+- Muted voices
 
-### Conflict
-- Conflict
--- Constructive disagreement
--- Passionate engagement
--- Meaningful dialogue
--- Unfiltered, unguarded opinions
--- Most important issues first
+>Live and work together, share experiences, solve problems jointly to overcome an absence of trust. Use models to discover and acknowledge each others’ strengths and weaknesses. Think Myers-Briggs.
 
-- Fear of conflict
--- Artificial harmony
--- Avoidance
--- Silent tension
--- Interpersonal attacks
--- Indecisiveness
+## Conflict
+
+### Existing Conflict Culture
+- Constructive disagreement
+- Passionate engagement
+- Meaningful dialogue
+- Unfiltered, unguarded opinions
+- Most important issues first
+
+### Fear of conflict
+- Artificial harmony
+- Avoidance
+- Silent tension
+- Interpersonal attacks
+- Indecisiveness
 
 >'Built-in-Instability' is a natural characteristic of self-organizing teams facing challenging goals. It is an element of productive tension from which creativity and learning emerges.
 
 *Productive conflict is a time-saver. It speeds up decision, avoids lengthy meetings and repeatedly having to visit the same issues.*
 
-### Commitment
-- Commitment
--- Disagree and commit
--- Buy-in
--- Transparency over work
--- Collective wisdom utilization
--- Clear, opportunistic decisions
+## Commitment
 
-- Lack of commitment
--- Enforced consensus
--- Hidden concerns
--- Hesitation
--- Inner-team competitiveness
--- Feign agreement
+### Exisiting Commitment
+- Disagree and commit
+- Buy-in
+- Transparency over work
+- Collective wisdom utilization
+- Clear, opportunistic decisions
+
+### Lack of commitment
+- Enforced consensus
+- Hidden concerns
+- Hesitation
+- Inner-team competitiveness
+- Feign agreement
 
 *Commitment overrides the need for bureaucracy.*
 
-### Accountability
-- Accoutability
--- Challenging standards for excellence
--- Open agreements
--- Clear plans of action
--- Mutual chanllenging
--- Being accountable to the team
+## Accountability
 
-- Avoidance of accountability
--- Low standards accepting mediocrity
--- Ambiguity
--- Politics
--- Backroom lobbying
--- Accountability vacuum
+### Exisiting Accoutability
+- Challenging standards for excellence
+- Open agreements
+- Clear plans of action
+- Mutual chanllenging
+- Being accountable to the team
+
+### Avoidance of accountability
+- Low standards accepting mediocrity
+- Ambiguity
+- Politics
+- Backroom lobbying
+- Accountability vacuum
 
 >‘Accountability’ refers to the willingness of team members to call their peers on their actions, commitment, and behavior with regards to shared goals, values and standards. An accountability vacuum arises when the team leader presents himself as the only source of discipline, causing every team member to look at him to hold others accountable. A leader’s attempted omnipresence tends to create such vacuum.
 
-### Goals
-- Goals
--- Shared goals
--- Regular measurements
--- Transparency
--- Willing sacrifices
--- Meaningful and controllable objective
+## Goals
 
-- Inattention to golas
--- Personal heroism
--- Individual credit claims
--- Ony Ego
--- Status & career first
--- Emotional indifferences to achievments
+### Exisiting Goals
+- Shared goals
+- Regular measurements
+- Transparency
+- Willing sacrifices
+- Meaningful and controllable objective
+
+### Inattention to golas
+- Personal heroism
+- Individual credit claims
+- Ony Ego
+- Status & career first
+- Emotional indifferences to achievments
 
 >Results should be controllable. Profit is not a goal, but a result from achieving a goal.
 
 ## Scrum Master´s Impact
-Most of these bullets could be in a job description of a Scrum Master. As a take away, people could
-use this slide to talk with their boss about the responsibilities of a Scrum Master.
-
 
 ### Lead by example.
 Be the first to be vulnerable, and create an environemnt where it's safe to be vulnerable. Be a living demonstration of the assets, including sincere and immediate apologies when beraking them.
@@ -145,13 +147,13 @@ Try to have key decisions made at the end of team meetings, making responsiblili
 ### Learn to read the room.
 Be connected without being present.
 
-### Good conflict culute
+### Good conflict culture
 Remind the team that conflict is good and natural and healthy.
 
 ### Show patience.
 Find comfort in silence, let the team take action, step in, speak up.
 
-### Restrain fro solving.
+### Restrain for solving.
 Reveal, not resolve. Be careful not to try and steer the team towards premature resolution of conflict with the intention to protecting people. Help the team members to learn and develop positive conflict resolution skills.
 
 ### Be comfortable with the prospect of a decision turning out not to lead to the anticipated result or effect.
@@ -160,6 +162,9 @@ Reveal, not resolve. Be careful not to try and steer the team towards premature 
 
 ### Show low tolerance for organizational impediments.
 
+### Most of these bullets could be in a job description of a Scrum Master
+As a take away, people could
+use this slide to talk with their boss about the responsibilities of a Scrum Master.
 
 ## From Controller to Enabler
 >Lyssa Adkins describes following as coaching behavior:
