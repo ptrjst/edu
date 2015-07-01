@@ -128,6 +128,31 @@ Live and work together, share experiences, solve problems jointly to overcome an
 # Scrum Master´s Impact
 *
 
+# From Controller to Enabler
+Lyssa Adkins describes following as coaching behavior:
+• Coaching people and teams
+• Be a servant-leader
+• Facilitate teams into high performance
+• Focus on the flow of Value
+• Take it to the team
+
+## Move away from: Coordinating individuals and individual contributors
+Move toward: Coaching people in Scrum and positive team behavior by gradually embodying the Scrum values.
+
+## Moveaway from: Provding answers as a subject matter expert
+Move toward: Enabling self-organization within Scrum Teams
+
+## Moveaway from: Investing in specific outcomes (budget and scope)
+Move toward: Helping Product Owners manage Product Backlogs and work with stakeholders
+
+## Moveaway from: Deadlines
+Move toward: Focussing Product Owners on flow and Value
+
+## Moveaway from: Prescribing technical solutions
+Move toward: Helping Development Teams understand and exxpand the definition of Done
+
+## Moveaway from: Fixing problems
+Move toward: Guiding Development Teams to discover what works best for them
 
 
 ----
