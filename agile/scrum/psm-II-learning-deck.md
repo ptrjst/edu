@@ -3,8 +3,7 @@ PSM II - Learning Deck
 
 This flash card deck provide insight into Scrum Theory to prepare yourself for the _Professional Scrum Master_ online assessment by Scrum.org.
 
-It's all about understanding the Scrum values as a toolbox for the Scrum Master to observe behavior, as a foundation for
-practices and decision.
+It's all about understanding the Scrum values as a toolbox for the Scrum Master to observe behavior, as a foundation for practices and decision.
 
 ----
 
