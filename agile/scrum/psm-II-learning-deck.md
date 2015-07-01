@@ -40,25 +40,90 @@ The 'team' aspect requires nurturung, cherishing and attention to avoid team atr
 –Patrick Lencioni (The Five Dysfunctions of a Team)
 
 ## Trust
-* Asset
-* Dysfunction
+* Trust
+** Constructive
+** Vulenrability
+** Room for emotions
+** Conviviality
+** Safety
+
+* Absence of trust
+** Defensive
+** Reluctance
+** Hallway backbiting
+** Muted voices
+
+Live and work together, share experiences, solve problems jointly to overcome an absence of trust. Use models to discover and acknowledge each others’ strengths and weaknesses. Think Myers-Briggs.
 
 ## Conflict
-* Asset
-* Dysfunction
+* Conflict
+** Constructive disagreement
+** Passionate engagement
+** Meaningful dialogue
+** Unfiltered, unguarded opinions
+** Most important issues first
+
+* Fear of conflict
+** Artificial harmony
+** Avoidance
+** Silent tension
+** Interpersonal attacks
+** Indecisiveness
+
+'Built-in-Instability' is a natural characteristic of self-organizing teams facing challenging goals. It is an element of productive tension from which creativity and learning emerges.
+
+- Productive conflict is a time-saver. It speeds up decision, avoids lengthy meetings and repeatedly having to visit the same issues.-
 
 ## Commitment
-* Asset
-* Dysfunction
+* Commitment
+** Disagree and commit
+** Buy-in
+** Transparency over work
+** Collective wisdom utilization
+** Clear, opportunistic decisions
+
+* Lack of commitment
+** Enforced consensus
+** Hidden concerns
+** Hesitation
+** Inner-team competitiveness
+** Feign agreement
+
+-Commitment overrides the need for bureaucracy.-
 
 ## Accountability
-* Asset
-* Dysfunction
+* Accoutability
+** Challenging standards for excellence
+** Open agreements
+** Clear plans of action
+** Mutual chanllenging
+** Being accountable to the team
+
+* Avoidance of accountability
+** Low standards accepting mediocrity
+** Ambiguity
+** Politics
+** Backroom lobbying
+** Accountability vacuum
+
+-‘Accountability’ refers to the willingness of team members to call their peers on their actions, commitment, and behavior with regards to shared goals, values and standards. An accountability vacuum arises when the team leader presents himself as the only source of discipline, causing every team member to look at him to hold others accountable. A leader’s attempted omnipresence tends to create such vacuum.-
 
 ## Goals
-* Asset
-* Dysfunction
+* Goals
+** Shared goals
+** Regular measurements
+** Transparency
+** Willing sacrifices
+** Meaningful and controllable objective
 
+* Inattention to golas
+** Personal heroism
+** Individual credit claims
+** Ony Ego
+** Status & career first
+** Emotional indifferences to achievments
+
+-Results should be controllable. Profit is not a goal, but a result from achieving a goal.-
 
 # Scrum Master´s Impact
 *
