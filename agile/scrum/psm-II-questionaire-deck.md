@@ -16,3 +16,8 @@ tbd
 
 ### Impact of courage and transparency
 tbd
+
+----
+
+## ~ END ~
+- *this is the end of this deck of flash cards* -
