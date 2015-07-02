@@ -1,7 +1,7 @@
 PSM II - Learning Deck
 ======================
 
-This flash card deck provide insight into Scrum Theory to prepare yourself for the _Professional Scrum Master_ online assessment by Scrum.org.
+This flash card deck provide insight into Scrum Theory to prepare yourself for the _Professional Scrum Master_ online assessment PSM II by Scrum.org.
 
 It's all about understanding the Scrum values as a toolbox for the Scrum Master to observe behavior, as a foundation for practices and decision.
 
@@ -163,11 +163,14 @@ Find comfort in silence, let the team take action, step in, speak up.
 ### Restrain for solving
 Reveal, not resolve. Be careful not to try and steer the team towards premature resolution of conflict with the intention to protecting people. Help the team members to learn and develop positive conflict resolution skills.
 
-### Be comfortable with the prospect of a decision turning out not to lead to the anticipated result or effect
+### Be comfortable with ...
+... the prospect of a decision turning out not to lead to the anticipated result or effect
+
+### Show low tolerance ...
+... for organizational impediments
 
 ### Caring for people
-
-### Show low tolerance for organizational impediments
+*Nothing more to say about...*
 
 ### *Take Away:* Scrum Master's potential job description
 *Most of these bullets could be in a job description of a Scrum Master. As a take away, people could use this slide to talk with their boss about the responsibilities of a Scrum Master.*
@@ -280,5 +283,5 @@ Focus is on the whole. They have passionate debates, engage on opposing ideas, l
 
 ----
 
-## END
-- *this is th end of this deck of flash cards* -
+## ~ END ~
+- *this is the end of this deck of flash cards* -
