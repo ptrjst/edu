@@ -1,4 +1,4 @@
-PSM II - Questionaire Deck
+PSM II - Questionaire Deck @ptrjst
 =====================
 This flash card deck assesses your insight into Scrum Theory to prepare yourself for the Professional Scrum Master online assessment by Scrum.org.
 
