@@ -4,6 +4,8 @@ This flash card deck assesses your insight into Scrum Theory to prepare yourself
 
 It's all about understanding the Scrum values as a toolbox for the Scrum Master to observe behavior, as a foundation for practices and decision. Or the gap in understanding ;)
 
+~ for Peter only ~
+
 ----
 
 ## Theory and First Principles
