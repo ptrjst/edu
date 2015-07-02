@@ -47,7 +47,7 @@ Assets can turn into dysfunctions and grind a team. The 'team' aspect requires n
 >*“Teams are inherently dysfunctional, as they are made of imperfect human beings.”* 
 –Patrick Lencioni (The Five Dysfunctions of a Team)
 
-## Trust
+## Team Assets - Trust
 
 ### Rely on trust
 - Constructive
@@ -64,7 +64,7 @@ Assets can turn into dysfunctions and grind a team. The 'team' aspect requires n
 
 >*Live and work together, share experiences, solve problems jointly to overcome an absence of trust. Use models to discover and acknowledge each others’ strengths and weaknesses. Think Myers-Briggs.*
 
-## Conflict
+## Team Assets - Conflict
 
 ### Having a conflict culture
 - Constructive disagreement
@@ -84,7 +84,7 @@ Assets can turn into dysfunctions and grind a team. The 'team' aspect requires n
 
 >*Productive conflict is a time-saver. It speeds up decision, avoids lengthy meetings and repeatedly having to visit the same issues.*
 
-## Commitment
+## Team Assets - Commitment
 
 ### Exisiting commitment
 - Disagree and commit
@@ -102,7 +102,7 @@ Assets can turn into dysfunctions and grind a team. The 'team' aspect requires n
 
 >*Commitment overrides the need for bureaucracy.*
 
-## Accountability
+## Team Assets - Accountability
 
 ### Accepting accoutability
 - Challenging standards for excellence
@@ -120,7 +120,7 @@ Assets can turn into dysfunctions and grind a team. The 'team' aspect requires n
 
 >*‘Accountability’ refers to the willingness of team members to call their peers on their actions, commitment, and behavior with regards to shared goals, values and standards. An accountability vacuum arises when the team leader presents himself as the only source of discipline, causing every team member to look at him to hold others accountable. A leader’s attempted omnipresence tends to create such vacuum.*
 
-## Goals
+## Team Assets - Goals
 
 ### Orientation to goals
 - Shared goals
@@ -172,25 +172,27 @@ Reveal, not resolve. Be careful not to try and steer the team towards premature 
 ### *Take Away:* Scrum Master's potential job description
 *Most of these bullets could be in a job description of a Scrum Master. As a take away, people could use this slide to talk with their boss about the responsibilities of a Scrum Master.*
 
+----
+
 ## From Controller to Enabler
 
-### Move away from: Coordinating individuals and individual contributors
-Move toward: Coaching people in Scrum and positive team behavior by gradually embodying the Scrum values.
+### *Move away from:* Coordinating individuals and individual contributors
+*Move toward:* Coaching people in Scrum and positive team behavior by gradually embodying the Scrum values.
 
-### Moveaway from: Provding answers as a subject matter expert
-Move toward: Enabling self-organization within Scrum Teams
+### *Move away from:* Provding answers as a subject matter expert
+*Move toward:* Enabling self-organization within Scrum Teams
 
-### Moveaway from: Investing in specific outcomes (budget and scope)
-Move toward: Helping Product Owners manage Product Backlogs and work with stakeholders
+### *Move away from:* Investing in specific outcomes (budget and scope)
+*Move toward:* Helping Product Owners manage Product Backlogs and work with stakeholders
 
-### Moveaway from: Deadlines
-Move toward: Focussing Product Owners on flow and Value
+### *Move away from:* Deadlines
+*Move toward:* Focussing Product Owners on flow and Value
 
-### Moveaway from: Prescribing technical solutions
-Move toward: Helping Development Teams understand and exxpand the definition of Done
+### *Move away from:* Prescribing technical solutions
+*Move toward:* Helping Development Teams understand and exxpand the definition of Done
 
-### Moveaway from: Fixing problems
-Move toward: Guiding Development Teams to discover what works best for them
+### *Move away from:* Fixing problems
+*Move toward:* Guiding Development Teams to discover what works best for them
 
 ### *Take Away:* Scrum Master's coaching
 >*Lyssa Adkins describes following as coaching behavior:*
@@ -202,11 +204,14 @@ Move toward: Guiding Development Teams to discover what works best for them
 
 ----
 
-## We have a Product Owner
-The benefits an organization gets from Scrum largely depend on how the game us played.
-Yes, you do Scrum if you have a Product Owner.
+## We have a Product Owner ...
+The benefits an organization gets from Scrum largely depend on how the game is played.
 
-## And you will do even better when the role is fulfilled by:
+Yes, you do Scrum if you have a Product Owner!
+
+And you will do even better when the role is ...
+
+## Product Owner can act as
 
 ### A (business) Analyst
 Limited benefits. But control is safe, as it remains with IT. However, for many decisions the analyst doesn’t have the answer, needs to revert to the real business responsible, look at the project manager, wait for an external decision like the steering committee.
@@ -221,19 +226,24 @@ Better. Direct availability of functional knowledge and stakeholder expectations
 Much better. A person authorized to take decisions on the spot, using the Sprint Review to demonstrate results to stakeholders.
 
 ### A mini-CEO
-a business person with full responsibility over the product. They don’t come much better than this.
+A business person with full responsibility over the product. They don’t come much better than this.
 
-## We have a Definition of Done
-The benefits an organization gets from Scrum largely depend on how the game us played.
-Yes, you do Scrum if you have a definition of Done.
+----
 
-## And you will do even better when the definition of Done reflects ‘releasable’ ànd that work can be done in the Sprint (not after a Sprint has finished):
+## We have a Definition of Done ...
+The benefits an organization gets from Scrum largely depend on how the game is played.
+
+Yes, you do Scrum if you have a *Definition of Done*!
+
+And you will do even better when the definition of Done reflects ‘releasable’ ànd that work can be done in the Sprint (not after a Sprint has finished) ...
+
+## Definition of Done
 
 ### Development
-essential, but hardly enough. Only the start. Without development, no progress as there can’t be working software.
+Essential, but hardly enough. Only the start. Without development, no progress as there can’t be working software.
 
 ### Test
-all testing is done within the Sprint, requiring testing skills in the Development Team. Testing is needed at a unit and a functional level. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
+All testing is done within the Sprint, requiring testing skills in the Development Team. Testing is needed at a unit and a functional level. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
 
 ### Integrate
 All integration, regression and alike testing is done in the Sprint, and across multiple teams working on the same product. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
@@ -242,28 +252,33 @@ All integration, regression and alike testing is done in the Sprint, and across 
 All organizational guidelines for quality are available and the Development Team has the skills, access and mandate to perform the work in the Sprint. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
 
 ### Release
-all work to prepare for an actual release (like traditional stabilization work) is performed in the Sprint. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
+All work to prepare for an actual release (like traditional stabilization work) is performed in the Sprint. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
 
-## We are a team
-The benefits an organization gets from Scrum largely depend on how the game us played.
-Yes, you do Scrum if you have a Scrum Team, including a Product Owner, Development Team and
-Scrum Master.
+----
 
-## And you will do even better when the team really collaborates
+## We are a team ...
+The benefits an organization gets from Scrum largely depend on how the game is played.
 
-### A team gets formed to start.
-It’s merely bringing a group of people together. Most are in
-observing mode. Formal arrangements and agreements get made, possibly including team
-agreements, engineering standards, a definition of Done, team values, meeting timings.
+Yes, you do Scrum if you have a Scrum Team, including a Product Owner, Development Team and Scrum Master!
+
+And you will do even better when the team really collaborates ...
+
+### A team gets formed to start
+It’s merely bringing a group of people together. Most are in observing mode. Formal arrangements and agreements get made, possibly including team agreements, engineering standards, a definition of Done, team values, meeting timings.
 
 ### A team goes through some storms ...
 ... as they get to know each other. They build a sense of trust.
 
-### The group of people keeps jelling.
+### The group of people keeps jelling
 The whole becomes equal to the sum of the parts. They cooperate, with with each other, align their individual work with the work of the others.
 
 ### The team knows each other, ...
 ... has grown confidence in understanding each other’s remarks, stop taking comments personally. They develop shared goals and show commitment to the team and these shared objectives. Individual benefits are being sacrificed for the good of the whole.
 
-### The team has become a unit.
+### The team has become a unit
 Focus is on the whole. They have passionate debates, engage on opposing ideas, look for the best possible outcome and are proud to be part of the group.
+
+----
+
+## END
+- *this is th end of this deck of flash cards* -
