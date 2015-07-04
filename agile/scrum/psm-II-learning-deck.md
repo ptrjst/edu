@@ -268,16 +268,24 @@ And you will do even better when the Definition of Done reflects ‘releasable�
 Essential, but hardly enough. Only the start. Without development, no progress as there can’t be working software.
 
 ### Test
-All testing is done within the Sprint, requiring testing skills in the Development Team. Testing is needed at a unit and a functional level. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
+All testing is done within the Sprint, requiring testing skills in the Development Team. Testing is needed at a unit and a functional level.
+
+>It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
 
 ### Integrate
-All integration, regression and alike testing is done in the Sprint, and across multiple teams working on the same product. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
+All integration, regression and alike testing is done in the Sprint, and across multiple teams working on the same product. 
+
+>It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
 
 ### QA
-All organizational guidelines for quality are available and the Development Team has the skills, access and mandate to perform the work in the Sprint. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
+All organizational guidelines for quality are available and the Development Team has the skills, access and mandate to perform the work in the Sprint.
+
+>It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
 
 ### Release
-All work to prepare for an actual release (like traditional stabilization work) is performed in the Sprint. It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
+All work to prepare for an actual release (like traditional stabilization work) is performed in the Sprint.
+
+>It does help additionally if the work can be automated and is done progressively in the Sprint, not just toward the end of the Sprint.
 
 ----
 
