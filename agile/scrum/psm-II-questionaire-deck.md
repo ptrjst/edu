@@ -10,7 +10,8 @@ It's all about understanding the Scrum values as a toolbox for the Scrum Master 
 One of the Scrum events is the Sprint Review.
 >*How does the Sprint Review enable empiricism?*
 >*What would the impact be if some members of the development team were not present?*
--Scrum Support @ Scrum.org
+
+-Scrum Support @ Scrum.org-
 
 ## Sample Question
 
