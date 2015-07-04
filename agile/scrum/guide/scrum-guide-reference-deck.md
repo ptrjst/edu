@@ -2,34 +2,20 @@ Scrum Guide
 ============================
 
 Purpose of the Scrum Guide:
-Scrum is a framework for developing and sustaining complex products. This Guide
-contains the definition of Scrum. This definition consists of Scrum’s roles,
-events, artifacts, and the rules that bind them together. Ken Schwaber and Jeff
-Sutherland developed Scrum; the Scrum Guide is written and provided by them.
+Scrum is a framework for developing and sustaining complex products. This Guide contains the definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that bind them together. Ken Schwaber and Jeff Sutherland developed Scrum; the Scrum Guide is written and provided by them.
+
 Together, they stand behind the Scrum Guide.
 
 ## Definition of Scrum
-Scrum (n): A framework within which people can address complex adaptive problems,
-while productively and creatively delivering products of the highest possible
-value.
+>*Scrum (n): A framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.*
 
 Scrum is:
-
 - Lightweight
 - Simple to understand
 - Difficult to master
 
-Scrum is a process framework that has been used to manage complex product
-development since the early 1990s. Scrum is not a process or a technique for
-building products; rather, it is a framework within which you can employ various
-processes and techniques. Scrum makes clear the relative efficacy of your product
-management and development practices so that you can improve.
-The Scrum framework consists of Scrum Teams and their associated roles, events,
-artifacts, and rules. Each component within the framework serves a specific
-purpose and is essential to Scrum’s success and usage.
-The rules of Scrum bind together the events, roles, and artifacts, governing the
-relationships and interaction between them. The rules of Scrum are described
-throughout the body of this document.
+Scrum is a process framework that has been used to manage complex product development since the early 1990s. Scrum is not a process or a technique for building products; rather, it is a framework within which you can employ various processes and techniques. Scrum makes clear the relative efficacy of your product management and development practices so that you can improve. The Scrum framework consists of Scrum Teams and their associated roles, events, artifacts, and rules. Each component within the framework serves a specific purpose and is essential to Scrum’s success and usage. The rules of Scrum bind together the events, roles, and artifacts, governing the relationships and interaction between them. The rules of Scrum are described throughout the body of this document.
+
 Specific tactics for using the Scrum framework vary and are described elsewhere.
 
 ----
@@ -53,12 +39,11 @@ Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint
 If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted. An adjustment must be made as soon as possible to minimize further deviation.
 
 Scrum prescribes four formal events for inspection and adaptation, as described in the Scrum Events section of this document:
-
 - Sprint Planning
 - Daily Scrum
 - Sprint Review
 - Sprint Retrospective
-- 
+ 
 ----
 
 ## The Scrum Team
@@ -72,12 +57,12 @@ Scrum Teams deliver products iteratively and incrementally, maximizing opportuni
 The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
 
 The Product Owner is the sole person responsible for managing the Product Backlog. Product Backlog management includes:
+- Clearly expressing Product Backlog items;
+- Ordering the items in the Product Backlog to best achieve goals and missions;
+- Optimizing the value of the work the Development Team performs;
+- Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next; and,
+- Ensuring the Development Team understands items in the Product Backlog to the level needed.
 
-Clearly expressing Product Backlog items;
-Ordering the items in the Product Backlog to best achieve goals and missions;
-Optimizing the value of the work the Development Team performs;
-Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next; and,
-Ensuring the Development Team understands items in the Product Backlog to the level needed.
 The Product Owner may do the above work, or have the Development Team do it. However, the Product Owner remains accountable.
 
 The Product Owner is one person, not a committee. The Product Owner may represent the desires of a committee in the Product Backlog, but those wanting to change a Product Backlog item’s priority must address the Product Owner.
@@ -90,12 +75,11 @@ The Development Team consists of professionals who do the work of delivering a p
 Development Teams are structured and empowered by the organization to organize and manage their own work. The resulting synergy optimizes the Development Team’s overall efficiency and effectiveness.
 
 Development Teams have the following characteristics:
-
-They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog into Increments of potentially releasable functionality;
-Development Teams are cross-functional, with all of the skills as a team necessary to create a product Increment;
-Scrum recognizes no titles for Development Team members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule;
-Scrum recognizes no sub-teams in the Development Team, regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule; and,
-Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole.
+- They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog into Increments of potentially releasable functionality;
+- Development Teams are cross-functional, with all of the skills as a team necessary to create a product Increment;
+- Scrum recognizes no titles for Development Team members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule;
+- Scrum recognizes no sub-teams in the Development Team, regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule; and,
+- Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole.
 
 #### Development Team Size
 Optimal Development Team size is small enough to remain nimble and large enough to complete significant work within a Sprint. Fewer than three Development Team members decrease interaction and results in smaller productivity gains. Smaller Development Teams may encounter skill constraints during the Sprint, causing the Development Team to be unable to deliver a potentially releasable Increment. Having more than nine members requires too much coordination. Large Development Teams generate too much complexity for an empirical process to manage. The Product Owner and Scrum Master roles are not included in this count unless they are also executing the work of the Sprint Backlog.
@@ -105,7 +89,9 @@ The Scrum Master is responsible for ensuring Scrum is understood and enacted. Sc
 
 The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
 
-### Scrum Master Service to the Product Owner
+### The Scrum Master
+
+### Service to the Product Owner
 The Scrum Master serves the Product Owner in several ways, including:
 - Finding techniques for effective Product Backlog management;
 - Helping the Scrum Team understand the need for clear and concise Product Backlog items;
@@ -114,7 +100,7 @@ The Scrum Master serves the Product Owner in several ways, including:
 - Understanding and practicing agility; and,
 - Facilitating Scrum events as requested or needed.
 
-### Scrum Master Service to the Development Team
+### Service to the Development Team
 The Scrum Master serves the Development Team in several ways, including:
 - Coaching the Development Team in self-organization and cross-functionality;
 - Helping the Development Team to create high-value products;
@@ -122,7 +108,7 @@ The Scrum Master serves the Development Team in several ways, including:
 - Facilitating Scrum events as requested or needed; and,
 - Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
 
-### Scrum Master Service to the Organization
+### Service to the Organization
 The Scrum Master serves the organization in several ways, including:
 - Leading and coaching the organization in its Scrum adoption;
 - Planning Scrum implementations within the organization;
@@ -170,14 +156,14 @@ Sprint Planning answers the following:
 - What can be delivered in the Increment resulting from the upcoming Sprint?
 - How will the work needed to deliver the Increment be achieved?
 
-#### Topic One: What can be done this Sprint?
+#### *Topic One:* What can be done this Sprint?
 The Development Team works to forecast the functionality that will be developed during the Sprint. The Product Owner discusses the objective that the Sprint should achieve and the Product Backlog items that, if completed in the Sprint, would achieve the Sprint Goal. The entire Scrum Team collaborates on understanding the work of the Sprint.
 
 The input to this meeting is the Product Backlog, the latest product Increment, projected capacity of the Development Team during the Sprint, and past performance of the Development Team. The number of items selected from the Product Backlog for the Sprint is solely up to the Development Team. Only the Development Team can assess what it can accomplish over the upcoming Sprint.
 
 After the Development Team forecasts the Product Backlog items it will deliver in the Sprint, the Scrum Team crafts a Sprint Goal. The Sprint Goal is an objective that will be met within the Sprint through the implementation of the Product Backlog, and it provides guidance to the Development Team on why it is building the Increment.
 
-#### Topic Two: how will the chosen work get done?
+#### *Topic Two:* how will the chosen work get done?
 Having set the Sprint Goal and selected the Product Backlog items for the Sprint, the Development Team decides how it will build this functionality into a “Done” product Increment during the Sprint. The Product Backlog items selected for this Sprint plus the plan for delivering them is called the Sprint Backlog.
 
 The Development Team usually starts by designing the system and the work needed to convert the Product Backlog into a working product Increment. Work may be of varying size, or estimated effort. However, enough work is planned during Sprint Planning for the Development Team to forecast what it believes it can do in the upcoming Sprint. Work planned for the first days of the Sprint by the Development Team is decomposed by the end of this meeting, often to units of one day or less. The Development Team self-organizes to undertake the work in the Sprint Backlog, both during Sprint Planning and as needed throughout the Sprint.
@@ -242,6 +228,7 @@ By the end of the Sprint Retrospective, the Scrum Team should have identified im
 Scrum’s artifacts represent work or value to provide transparency and opportunities for inspection and adaptation. Artifacts defined by Scrum are specifically designed to maximize transparency of key information so that everybody has the same understanding of the artifact.
 
 ## Scrum Artifacts
+
 ### Product Backlog
 The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering.
 
@@ -310,3 +297,9 @@ History
 Ken Schwaber and Jeff Sutherland first co-presented Scrum at the OOPSLA conference in 1995. This presentation essentially documented the learning that Ken and Jeff gained over the previous few years applying Scrum.
 
 The history of Scrum is already considered long. To honor the first places where it was tried and refined, we recognize Individual, Inc., Fidelity Investments, and IDX (now GE Medical).
+
+
+----
+
+## ~ END ~
+~*this is the end of this deck of flash cards*~
