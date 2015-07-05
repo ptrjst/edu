@@ -7,27 +7,28 @@ It's all about understanding the Scrum values as a toolbox for the Scrum Master 
 ----
 
 ## How do I pass the PSM II?
->- Take the PSM course by Scrum.org
->- Revise the course material and go over the Scrum Guide again (and again)
->- Your course trainer will probably give you a list of additional reading. Use it
->- If you attend a PSM course, you’ll get a free go at the PSM I. Take it
->- Do the Scrum.org Open Assessment again (and again). It helps to form Scrum muscle memory
->- Create a study group with other PSM II candidates and help each other to revise and study
->- Don’t leave it too long after the PSM course before taking the PSM II assessment. You will start to forget things you learned in the course
-- Read the question. I know, this sounds obvious and yet I, and a colleague, both lost marks because we failed to do this
->- Don’t over-think the question
->- Brush up your exam-techniques. Don’t lose points for silly things
->- Don’t worry about the low score you receive at the end of the assessment,this is normal, as only your multiple-choice questions have been marked (Anecdotal information indicates that a score of between 11% and 18% is normal but it will depend on the number of multiple choice questions you have)
->- Questions do not carry the same number of points, so don’t make any predictions based on the score you got at the end of the assessment
->- If you fail, do NOT give up. Scrum.org will feedback to you on where you can improve. Take time to review this thoroughly then draw up a plan to revise and re-sit the assessment
+> - Take the PSM course by Scrum.org
+> - Revise the course material and go over the Scrum Guide again (and again)
+> - Your course trainer will probably give you a list of additional reading. Use it
+> - If you attend a PSM course, you’ll get a free go at the PSM I. Take it
+> - Do the Scrum.org Open Assessment again (and again). It helps to form Scrum muscle memory
+> - Create a study group with other PSM II candidates and help each other to revise and study
+> - Don’t leave it too long after the PSM course before taking the PSM II assessment. You will start to forget things you learned in the course
+> - Read the question. I know, this sounds obvious and yet I, and a colleague, both lost marks because we failed to do this
+> - Don’t over-think the question
+> - Brush up your exam-techniques. Don’t lose points for silly things
+> - Don’t worry about the low score you receive at the end of the assessment,this is normal, as only your multiple-choice questions have been marked (Anecdotal information indicates that a score of between 11% and 18% is normal but it will depend on the number of multiple choice questions you have)
+> - Questions do not carry the same number of points, so don’t make any predictions based on the score you got at the end of the assessment
+> - If you fail, do NOT give up. Scrum.org will feedback to you on where you can improve. Take time to review this thoroughly then draw up a plan to revise and re-sit the assessment
 
--Derek Davidson @ [webgate.ltd.uk] (http://webgate.ltd.uk/pass-professional-scrum-master-ii-psm-ii-assessment/)/-
+-Derek Davidson @ [webgate.ltd.uk](http://webgate.ltd.uk/pass-professional-scrum-master-ii-psm-ii-assessment/)/-
 
 ----
 
 ## Here is a sample PSM II question
 One of the Scrum events is the Sprint Review.
 >*How does the Sprint Review enable empiricism?*
+>
 >*What would the impact be if some members of the development team were not present?*
 
 -Scrum Support @ [Scrum.org](https://www.scrum.org/Forums/aft/1443)-
