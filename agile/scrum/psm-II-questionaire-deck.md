@@ -20,7 +20,8 @@ It's all about understanding the Scrum values as a toolbox for the Scrum Master 
 >- Don’t worry about the low score you receive at the end of the assessment,this is normal, as only your multiple-choice questions have been marked (Anecdotal information indicates that a score of between 11% and 18% is normal but it will depend on the number of multiple choice questions you have)
 >- Questions do not carry the same number of points, so don’t make any predictions based on the score you got at the end of the assessment
 >- If you fail, do NOT give up. Scrum.org will feedback to you on where you can improve. Take time to review this thoroughly then draw up a plan to revise and re-sit the assessment
--Derek Davidson @ http://webgate.ltd.uk/-
+
+-Derek Davidson @ [webgate.ltd.uk] (http://webgate.ltd.uk/pass-professional-scrum-master-ii-psm-ii-assessment/)/-
 
 ----
 
@@ -29,7 +30,7 @@ One of the Scrum events is the Sprint Review.
 >*How does the Sprint Review enable empiricism?*
 >*What would the impact be if some members of the development team were not present?*
 
--Scrum Support @ Scrum.org-
+-Scrum Support @ [Scrum.org](https://www.scrum.org/Forums/aft/1443)-
 
 ## Sample Question
 
