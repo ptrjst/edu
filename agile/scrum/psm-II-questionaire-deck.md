@@ -58,7 +58,7 @@ One of the Scrum events is the Sprint Review.
 
 ## Scrum Theory
 
-### Transpaency
+### Transparency
 tbd
 
 ### Inspection
