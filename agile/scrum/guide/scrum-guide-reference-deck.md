@@ -29,8 +29,8 @@ Scrum is founded on empirical process control theory, or empiricism. Empiricism 
 Significant aspects of the process must be visible to those responsible for the outcome. Transparency requires those aspects be defined by a common standard so observers share a common understanding of what is being seen.
 
 >For example:
->A common language referring to the process must be shared by all participants; and,
->Those performing the work and those accepting the work product must share a common definition of “Done”
+>- A common language referring to the process must be shared by all participants; and,
+>- Those performing the work and those accepting the work product must share a common definition of “Done”
 
 ### Inspection
 Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
@@ -38,7 +38,7 @@ Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint
 ### Adaptation
 If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted. An adjustment must be made as soon as possible to minimize further deviation.
 
-Scrum prescribes four formal events for inspection and adaptation, as described in the Scrum Events section of this document:
+Scrum prescribes four formal events for inspection and adaptation, as described in the Scrum Events section of this card deck:
 - Sprint Planning
 - Daily Scrum
 - Sprint Review
@@ -57,6 +57,7 @@ Scrum Teams deliver products iteratively and incrementally, maximizing opportuni
 The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
 
 The Product Owner is the sole person responsible for managing the Product Backlog. Product Backlog management includes:
+
 - Clearly expressing Product Backlog items;
 - Ordering the items in the Product Backlog to best achieve goals and missions;
 - Optimizing the value of the work the Development Team performs;
@@ -74,7 +75,8 @@ The Development Team consists of professionals who do the work of delivering a p
 
 Development Teams are structured and empowered by the organization to organize and manage their own work. The resulting synergy optimizes the Development Team’s overall efficiency and effectiveness.
 
-Development Teams have the following characteristics:
+#### Development Teams have the following characteristics:
+
 - They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog into Increments of potentially releasable functionality;
 - Development Teams are cross-functional, with all of the skills as a team necessary to create a product Increment;
 - Scrum recognizes no titles for Development Team members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule;
@@ -93,6 +95,7 @@ The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps 
 
 ### Service to the Product Owner
 The Scrum Master serves the Product Owner in several ways, including:
+
 - Finding techniques for effective Product Backlog management;
 - Helping the Scrum Team understand the need for clear and concise Product Backlog items;
 - Understanding product planning in an empirical environment;
@@ -102,6 +105,7 @@ The Scrum Master serves the Product Owner in several ways, including:
 
 ### Service to the Development Team
 The Scrum Master serves the Development Team in several ways, including:
+
 - Coaching the Development Team in self-organization and cross-functionality;
 - Helping the Development Team to create high-value products;
 - Removing impediments to the Development Team’s progress;
@@ -110,6 +114,7 @@ The Scrum Master serves the Development Team in several ways, including:
 
 ### Service to the Organization
 The Scrum Master serves the organization in several ways, including:
+
 - Leading and coaching the organization in its Scrum adoption;
 - Planning Scrum implementations within the organization;
 - Helping employees and stakeholders understand and enact Scrum and empirical product development;
@@ -130,7 +135,8 @@ The heart of Scrum is a Sprint, a time-box of one month or less during which a �
 
 Sprints contain and consist of the Sprint Planning, Daily Scrums, the development work, the Sprint Review, and the Sprint Retrospective.
 
-During the Sprint:
+#### During the Sprint:
+
 - No changes are made that would endanger the Sprint Goal;
 - Quality goals do not decrease; and,
 - Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
@@ -153,8 +159,9 @@ The work to be performed in the Sprint is planned at the Sprint Planning. This p
 Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter. The Scrum Master ensures that the event takes place and that attendants understand its purpose. The Scrum Master teaches the Scrum Team to keep it within the time-box.
 
 Sprint Planning answers the following:
-- What can be delivered in the Increment resulting from the upcoming Sprint?
-- How will the work needed to deliver the Increment be achieved?
+
+- *What can be delivered in the Increment resulting from the upcoming Sprint?*
+- *How will the work needed to deliver the Increment be achieved?*
 
 #### *Topic One:* What can be done this Sprint?
 The Development Team works to forecast the functionality that will be developed during the Sprint. The Product Owner discusses the objective that the Sprint should achieve and the Product Backlog items that, if completed in the Sprint, would achieve the Sprint Goal. The entire Scrum Team collaborates on understanding the work of the Sprint.
@@ -181,9 +188,10 @@ As the Development Team works, it keeps the Sprint Goal in mind. In order to sat
 The Daily Scrum is a 15-minute time-boxed event for the Development Team to synchronize activities and create a plan for the next 24 hours. This is done by inspecting the work since the last Daily Scrum and forecasting the work that could be done before the next one. The Daily Scrum is held at the same time and place each day to reduce complexity.
 
 During the meeting, the Development Team members explain:
-- What did I do yesterday that helped the Development Team meet the Sprint Goal?
-- What will I do today to help the Development Team meet the Sprint Goal?
-- Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
+
+- *What did I do yesterday that helped the Development Team meet the Sprint Goal?*
+- *What will I do today to help the Development Team meet the Sprint Goal?*
+- *Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?*
 
 The Development Team uses the Daily Scrum to inspect progress toward the Sprint Goal and to inspect how progress is trending toward completing the work in the Sprint Backlog. The Daily Scrum optimizes the probability that the Development Team will meet the Sprint Goal. Every day, the Development Team should understand how it intends to work together as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment by the end of the Sprint. The Development Team or team members often meet immediately after the Daily Scrum for detailed discussions, or to adapt, or replan, the rest of the Sprint’s work.
 
@@ -199,6 +207,7 @@ A Sprint Review is held at the end of the Sprint to inspect the Increment and ad
 This is a four-hour time-boxed meeting for one-month Sprints. For shorter Sprints, the event is usually shorter. The Scrum Master ensures that the event takes place and that attendants understand its purpose. The Scrum Master teaches all to keep it within the time-box.
 
 The Sprint Review includes the following elements:
+
 - Attendees include the Scrum Team and key stakeholders invited by the Product Owner;
 - The Product Owner explains what Product Backlog items have been “Done” and what has not been “Done”;
 - The Development Team discusses what went well during the Sprint, what problems it ran into, and how those problems were solved;
@@ -207,6 +216,7 @@ The Sprint Review includes the following elements:
 - The entire group collaborates on what to do next, so that the Sprint Review provides valuable input to subsequent Sprint Planning;
 - Review of how the marketplace or potential use of the product might have changed what is the most valuable thing to do next; and,
 - Review of the timeline, budget, potential capabilities, and marketplace for the next anticipated release of the product.
+
 The result of the Sprint Review is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint. The Product Backlog may also be adjusted overall to meet new opportunities.
 
 ### Sprint Retrospective
@@ -215,6 +225,7 @@ The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself 
 The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning. This is a three-hour time-boxed meeting for one-month Sprints. For shorter Sprints, the event is usually shorter. The Scrum Master ensures that the event takes place and that attendants understand its purpose. The Scrum Master teaches all to keep it within the time-box. The Scrum Master participates as a peer team member in the meeting from the accountability over the Scrum process.
 
 The purpose of the Sprint Retrospective is to:
+
 - Inspect how the last Sprint went with regards to people, relationships, process, and tools;
 - Identify and order the major items that went well and potential improvements; and,
 - Create a plan for implementing improvements to the way the Scrum Team does its work.
@@ -240,14 +251,14 @@ As a product is used and gains value, and the marketplace provides feedback, the
 
 Multiple Scrum Teams often work together on the same product. One Product Backlog is used to describe the upcoming work on the product. A Product Backlog attribute that groups items may then be employed.
 
+#### Product Backlog Refinement
 Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog items. During Product Backlog refinement, items are reviewed and revised. The Scrum Team decides how and when refinement is done. Refinement usually consumes no more than 10% of the capacity of the Development Team. However, Product Backlog items can be updated at any time by the Product Owner or at the Product Owner’s discretion.
 
 Higher ordered Product Backlog items are usually clearer and more detailed than lower ordered ones. More precise estimates are made based on the greater clarity and increased detail; the lower the order, the less detail. Product Backlog items that will occupy the Development Team for the upcoming Sprint are refined so that any one item can reasonably be “Done” within the Sprint time-box. Product Backlog items that can be “Done” by the Development Team within one Sprint are deemed “Ready” for selection in a Sprint Planning. Product Backlog items usually acquire this degree of transparency through the above described refining activities.
 
 The Development Team is responsible for all estimates. The Product Owner may influence the Development Team by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
 
-Monitoring Progress Toward a Goal
-
+#### Monitoring Progress Toward a Goal
 At any point in time, the total work remaining to reach a goal can be summed. The Product Owner tracks this total work remaining at least every Sprint Review. The Product Owner compares this amount with work remaining at previous Sprint Reviews to assess progress toward completing projected work by the desired time for the goal. This information is made transparent to all stakeholders.
 
 Various projective practices upon trending have been used to forecast progress, like burn-downs, burn-ups, or cumulative flows. These have proven useful. However, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has happened may be used for forward-looking decision-making.
@@ -261,8 +272,7 @@ The Sprint Backlog is a plan with enough detail that changes in progress can be 
 
 As new work is required, the Development Team adds it to the Sprint Backlog. As work is performed or completed, the estimated remaining work is updated. When elements of the plan are deemed unnecessary, they are removed. Only the Development Team can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that the Development Team plans to accomplish during the Sprint, and it belongs solely to the Development Team.
 
-Monitoring Sprint Progress
-
+#### Monitoring Sprint Progress
 At any point in time in a Sprint, the total work remaining in the Sprint Backlog can be summed. The Development Team tracks this total work remaining at least for every Daily Scrum to project the likelihood of achieving the Sprint Goal. By tracking the remaining work throughout the Sprint, the Development Team can manage its progress.
 
 ### Increment
@@ -289,11 +299,11 @@ As Scrum Teams mature, it is expected that their definitions of “Done” will 
 ## End Note
 Scrum is free and offered in this Guide. Scrum’s roles, artifacts, events, and rules are immutable and although implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
 
-Acknowledgements
-People
+### Acknowledgements
+#### People
 Of the thousands of people who have contributed to Scrum, we should single out those who were instrumental in its first ten years. First there was Jeff Sutherland working with Jeff McKenna, and Ken Schwaber working with Mike Smith and Chris Martin. Many others contributed in the ensuing years and without their help Scrum would not be refined as it is today.
 
-History
+#### History
 Ken Schwaber and Jeff Sutherland first co-presented Scrum at the OOPSLA conference in 1995. This presentation essentially documented the learning that Ken and Jeff gained over the previous few years applying Scrum.
 
 The history of Scrum is already considered long. To honor the first places where it was tried and refined, we recognize Individual, Inc., Fidelity Investments, and IDX (now GE Medical).
