@@ -50,15 +50,66 @@ One of the Scrum events is the Sprint Review.
 
 ----
 
-## Theory and First Principles
+## *How this questionaire deck is build*
+>*The main sections of this questionaire deck follow the structure of the original Scrum Guide.*
+>*While not representing any structure the PSM II Online Assessment @ Scrum.org may look like!*
 
-### Variables which lead to complexity
+----
+
+## Scrum Theory
+
+### Transpaency
 tbd
 
-### Essential advantages of agility
+### Inspection
 tbd
 
-### Impact of courage and transparency
+### Adaptation
+tbd
+
+## The Scrum Team
+
+### The Product Owner
+tbd
+
+### The Development Team
+tbd
+
+### The Scum Master
+tbd
+
+## Scrum Events
+
+### The Sprint
+tbd
+
+### Sprint Planning
+tbd
+
+### Daily Scrum
+tbd
+
+### Sprint Review
+tbd
+
+### Sprint Retrospective
+tbd
+
+## Scrum Artifacts
+
+### Product Backlog
+tbd
+
+### Sprint Backlog
+tbd
+
+### Increment
+tbd
+
+## Artifact Transparency
+tbd
+
+## Definition of Done
 tbd
 
 ----
