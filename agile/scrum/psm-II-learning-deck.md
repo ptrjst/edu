@@ -1,4 +1,4 @@
-PSM II - Learning Deck
+﻿PSM II - Learning Deck
 ======================
 
 This flash card deck provide insight into Scrum Theory to prepare yourself for the _Professional Scrum Master_ online assessment PSM II by Scrum.org.
@@ -280,6 +280,23 @@ The whole becomes equal to the sum of the parts. They cooperate, with with each 
 
 ### The team has become a unit
 Focus is on the whole. They have passionate debates, engage on opposing ideas, look for the best possible outcome and are proud to be part of the group.
+
+----
+## The foundation of Scrum
+
+### Software development... 
+...resides in the complex domain
+
+### The right process produces the right results; the best fit for complexity is ...
+... the emperical process.
+
+### The three legs of empirithm are ...
+inspeciton
+adaption
+transparancy
+
+### Transparancy requires...
+...trust and courage.
 
 ----
 
